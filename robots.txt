@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://deworgeo.github.io/sitemap
+Sitemap: https://deworgeo.github.io/app/sitemap
+Sitemap: https://deworgeo.github.io/assets/sitemap
+Sitemap: https://deworgeo.github.io/css/sitemap
+Sitemap: https://deworgeo.github.io/includes/sitemap
+Sitemap: https://deworgeo.github.io/item/sitemap
+Sitemap: https://deworgeo.github.io/src/sitemap
